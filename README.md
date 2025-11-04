@@ -4,9 +4,7 @@
     
 ![Profile view counter](https://komarev.com/ghpvc/?username=your-github-beast-dazai&label=visitors)
   
-
-![Image](https://github.com/user-attachments/assets/0eee8ddc-ebf2-4030-8917-393ecd649d1f)
-
+<img width="510" height="489" alt="Image" src="https://github.com/user-attachments/assets/4b7c1083-2a2a-446b-8056-6c631d09ff31" />
 
 ## <p align="center">
 <p align="center"> online status meaning: 
